@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\ProjMedicamento\ProjMedicamento\bin\Debug\ProjMedicamento.exe.config
+C:\Users\Eduardo\source\repos\ProjMedicamento\ProjMedicamento\bin\Debug\ProjMedicamento.exe
+C:\Users\Eduardo\source\repos\ProjMedicamento\ProjMedicamento\bin\Debug\ProjMedicamento.pdb
+C:\Users\Eduardo\source\repos\ProjMedicamento\ProjMedicamento\obj\Debug\ProjMedicamento.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\ProjMedicamento\ProjMedicamento\obj\Debug\ProjMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\ProjMedicamento\ProjMedicamento\obj\Debug\ProjMedicamento.exe
+C:\Users\Eduardo\source\repos\ProjMedicamento\ProjMedicamento\obj\Debug\ProjMedicamento.pdb
